@@ -1,0 +1,40 @@
+DOCS 
+
+
+Helpers:
+
+.env and .gitignore
+	https://dev.to/eprenzlin/env-gitignore-and-protecting-api-keys-2b9l
+
+Using .env with Vite
+	https://github.com/vitejs/vite/issues/562
+
+
+unsplash API reference
+	https://unsplash.com/documentation#search-photos
+
+
+MaterialUI masonry
+	https://mui.com/material-ui/react-masonry/
+
+
+
+
+SASS
+	https://sass-lang.com/documentation/syntax
+
+
+Redux-Toolkit
+	https://redux-toolkit.js.org/introduction/getting-started
+
+
+Redux-thunk
+	https://www.npmjs.com/package/redux-thunk
+
+
+Setting middlewares in redux
+	https://stackoverflow.com/questions/66805895/it-looks-like-you-are-passing-several-store-enhancers-to-createstore-react-thu
+
+
+Absolute imports with React
+	https://medium.com/geekculture/making-life-easier-with-absolute-imports-react-in-javascript-and-typescript-bbdab8a8a3a1
