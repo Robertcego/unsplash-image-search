@@ -1,4 +1,6 @@
-export default function () {
+import axios from 'axios';
+
+export default function getPhotos() {
   return async function (dispatch) {
     const response = await axios.get(
       `https://api.unsplash.com/photos?client_id=${

@@ -1,4 +1,8 @@
-export default function (query) {
+import axios from 'axios';
+
+import { SEARCH_PHOTOS } from '../actions/index';
+
+export default function searchPhotos(query) {
   return async function (dispatch) {
     const response = await axios.get(
       `https://api.unsplash.com/search/photos?query=${query}&client_id=${
